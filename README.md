@@ -11,6 +11,18 @@ Summary: The simplest way to write one program that runs on both Python 2 and Py
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pies-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pies-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/pies-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pies-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pies-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pies-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pies/badges/version.svg)](https://anaconda.org/conda-forge/pies)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pies/badges/downloads.svg)](https://anaconda.org/conda-forge/pies)
+
 Installing pies
 ===============
 
@@ -66,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pies-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pies-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pies-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pies-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pies-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pies-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pies/badges/version.svg)](https://anaconda.org/conda-forge/pies)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pies/badges/downloads.svg)](https://anaconda.org/conda-forge/pies)
 
 
 Updating pies-feedstock
